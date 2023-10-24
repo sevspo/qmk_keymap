@@ -1,5 +1,3 @@
 SRC += source.c
 
-UNICODE_COMMON = yes
-
-UNICODEMAP_ENABLE = yes
+UNICODE_ENABLE = yes
