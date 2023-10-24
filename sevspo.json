@@ -8,7 +8,7 @@
   "layers": [
     [
       "UC(0x00F6)",
-      "UC(0x00F6)",
+      "UM(BANG)",
       "KC_W",
       "KC_E",
       "KC_R",
